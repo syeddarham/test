@@ -1,15 +1,6 @@
-Huzaifa chatai wala
+x = 10
 
-Begairat
+y = 20
 
-lala
+x + y 
 
-
-login branch he ye
-
-adsasdasd
-
-adsasdasd
-
-
-asdasdasdasd
